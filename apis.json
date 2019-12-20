@@ -1,0 +1,59 @@
+{
+    "name": "TwitPic",
+    "description": "<p>TwitPic is a website that allows users to post pictures to the Twitter microblogging service. TwitPic is often used by citizen journalists to upload and distribute pictures in near real-time as an event is taking place<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/508_logo.jpg",
+    "tags": [
+        "have api",
+        "microblogging",
+        "photos",
+        "social",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/twitpic\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TwitPic",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/508_logo.jpg",
+            "humanURL": "http:\/\/twitpic.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/twitpic-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.twitpic.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/twitpic"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/dev.twitpic.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Twitpic"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TwitPic"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/twitpic.com"
+        }
+    ]
+}
