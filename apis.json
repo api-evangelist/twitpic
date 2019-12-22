@@ -9,8 +9,8 @@
         "social",
         "twitter"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/twitpic\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -21,16 +21,15 @@
             "humanURL": "http:\/\/twitpic.com",
             "baseURL": "",
             "tags": [],
-            "properties": [
-                {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/twitpic-postman-collection.json"
-                }
-            ]
+            "properties": []
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "http:\/\/blog.twitpic.com\/"
